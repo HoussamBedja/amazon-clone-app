@@ -61,7 +61,7 @@ function Login() {
         <p>
           Sign in or create an account to the FAKE Amazon clone site.
         </p>
-        <p>Enjoy the demo &#128516;</p>
+        <p>Enjoy the demo &#128578;</p>
 
       </div>
     </div>
