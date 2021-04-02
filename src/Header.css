@@ -1,5 +1,5 @@
 .header {
-  /* height: 60px; */
+  height: 60px;
   display: flex;
   align-items: center;
   background-color: #131921;
@@ -10,7 +10,7 @@
 
 .header__logo {
   width: 100px;
-  /* object-fit: contain; */
+  object-fit: contain;
   margin: 0 20px;
   margin-top: 18px;
 }
@@ -18,8 +18,8 @@
 .header__search {
   display: flex;
   flex: 1;
-  /* align-items: center; */
-  /* border-radius: 24px; */
+  align-items: center;
+  border-radius: 24px;
 }
 
 .header__searchInput {
@@ -51,15 +51,36 @@
   margin-left: 10px;
   margin-right: 10px;
   color: white;
+  cursor: pointer;
+  border: solid 1px;
+  border-radius: 3px;
+  border-color: transparent;
+  padding: 7px;
+}
+
+.header__option:hover {
+  border-color: whitesmoke;
 }
 
 .header__optionLineOne {
-  font-size: 10px;
+  font-size: 11px;
 }
 
 .header__optionLineTwo {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 800;
+}
+
+.header__basket {
+  padding: 9px 7px;
+  border: solid 1px;
+  border-radius: 3px;
+  border-color: transparent;
+  margin-top: 2px;
+}
+
+.header__basket:hover {
+  border-color: whitesmoke;
 }
 
 .header__optionBasket {
