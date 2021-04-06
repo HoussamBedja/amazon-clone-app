@@ -10,7 +10,7 @@ Here are some key features:
 
 Deployed LIVE on https://clone-b0705.web.app/.
 
-<a href="https://clone-b0705.web.app/">https://user-images.githubusercontent.com/12534205/113644059-d2e9ff00-9651-11eb-9e79-1f55974c1f48.mov
+<a href="https://clone-b0705.web.app/">![ezgif com-gif-maker](https://user-images.githubusercontent.com/12534205/113644639-34f73400-9653-11eb-8804-2f39b8e1fc11.gif)
 </a>
 
 ## Run the project locally
